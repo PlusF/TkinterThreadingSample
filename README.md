@@ -1,3 +1,4 @@
 # TkinterThreadingSample
 Qiitaの記事用
+
 Tkinterで無限ループのthreadingをうまく扱う構成
